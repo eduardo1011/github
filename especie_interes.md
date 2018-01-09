@@ -2,8 +2,8 @@
 ## Abulón rojo
 En el **Laboratorio de genética Acuícola** del Departamento de Acuicultura del **CICESE**, trabajamos con genética del 
 
-<p aling="center">
-  <img src="http://naplesseashellcompany.com/images/polished_red_abalone_seashe.jpg">
+<p align="center">
+  <img src="http://naplesseashellcompany.com/images/polished_red_abalone_seashe.jpg" width=30%>
 </p>
 
 
