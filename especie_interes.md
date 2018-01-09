@@ -2,7 +2,10 @@
 ## Abulón rojo
 En el **Laboratorio de genética Acuícola** del Departamento de Acuicultura del **CICESE**, trabajamos con genética del 
 
-[abulón rojo (Fig.1)](http://naplesseashellcompany.com/images/polished_red_abalone_seashe.jpg "abulón rojo")
+<p aling="center">
+  <img src="http://naplesseashellcompany.com/images/polished_red_abalone_seashe.jpg">
+</p>
+
 
 ![](http://naplesseashellcompany.com/images/polished_red_abalone_seashe.jpg)
 Fig. 1. Concha de abulón rojo, *Haliotis rufescens* pulida.
