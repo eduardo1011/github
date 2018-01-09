@@ -4,9 +4,9 @@ En el **Laboratorio de genética Acuícola** del Departamento de Acuicultura del
 
 <p align="center">
   <img src="http://naplesseashellcompany.com/images/polished_red_abalone_seashe.jpg" width=30%>
-
-Fig. 1. Concha de abulón rojo, *Haliotis rufescens* pulida.
 </p>
+
+<p align="center">Fig. 1. Concha de abulón rojo, <i>Haliotis rufescens</i> pulida.
 
 El abulón rojo, *Haliotis rufescens* es una especie de gasterópodo marino que se distribuye en las costas de California y Baja California.
 
